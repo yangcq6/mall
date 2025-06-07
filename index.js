@@ -5,3 +5,4 @@ alert('master');
 
 alert('hhhh');
 
+alert('github update');
